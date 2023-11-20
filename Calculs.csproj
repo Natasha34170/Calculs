@@ -7,13 +7,8 @@
     <ProjectGuid>{77A27436-5EE0-4E0F-ADB6-4CCF4D311177}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Calculs</RootNamespace>
-    <AssemblyName>Calculs</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+   
+  
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
