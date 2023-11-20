@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Calculs</RootNamespace>
    
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
